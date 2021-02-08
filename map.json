@@ -898,7 +898,7 @@
         {
          "columns":72,
          "firstgid":321,
-         "image":"..\/..\/..\/Desktop\/testmap.png",
+         "image":"testmap.png",
          "imageheight":2176,
          "imagewidth":2304,
          "margin":0,
@@ -1119,7 +1119,7 @@
         {
          "columns":2,
          "firstgid":5217,
-         "image":"..\/..\/..\/Desktop\/collidebase.png",
+         "image":"collidebase.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
